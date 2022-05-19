@@ -1,5 +1,4 @@
-2022-05-19 18:38:29,749 INFO: Microblog startup [in /Users/m.palanisamy/Projects/Flask-Learning/Microblog/app/__init__.py:44]
-2022-05-19 18:39:10,516 ERROR: Exception on /edit_profile [POST] [in /Users/m.palanisamy/Projects/Flask-Learning/Microblog/venv/lib/python3.9/site-packages/flask/app.py:1455]
+2022-05-19 18:51:31,868 ERROR: Exception on /edit_profile [POST] [in /Users/m.palanisamy/Projects/Flask-Learning/Microblog/venv/lib/python3.9/site-packages/flask/app.py:1455]
 Traceback (most recent call last):
   File "/Users/m.palanisamy/Projects/Flask-Learning/Microblog/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
     self.dialect.do_execute(
